@@ -3,7 +3,8 @@ Hi 👋 My name is Clément BELLIER
 Web developer in training
 -------------------------
 I've been learning to code at Openclassrooms since the beginning of March 2022.
-I fell in love with CSS, I'm doing a front-end challenge the 100DaysCssChallenge (find my diary challenges on my codepen)
+I fell in love with CSS.
+I'm doing a front-end challenge the 100DaysCssChallenge (find my diary challenges on my codepen)
 
 * 🌍  I'm based in Soissons, France
 * 🧠  I'm learning Javascript
