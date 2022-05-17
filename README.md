@@ -1,6 +1,6 @@
 Hi 👋 My name is Clément BELLIER
 ================================
-Web developer in training
+Front-End Web developer in training
 -------------------------
 I've been learning to code at Openclassrooms since the beginning of March 2022.
 I fell in love with CSS.
