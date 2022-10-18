@@ -1,5 +1,15 @@
 Hi 👋 My name is Clément BELLIER
-================================Fullstack Javascript Developer------------------------------I am Clément, converted to web development after 35 years in search of a passion job. I had several careers in my life, pastry chef, baker, supervisor in a college then training as a computer technician to finally find the field that fully fulfilled me. During my training, I had a mentor who introduced me to Clean Code, TDD and Software Craftmanship in general. I am very grateful to her because I want to evolve in this direction and write a readable and scalable code.* 🌍  I'm based in Soissons, France* 🖥️  See my portfolio at [clementbellier.fr](http://www.clementbellier.fr)* 🧠  I'm learning TypeScript, Strapi & Docker* 🤝  I'm open to collaborating on meaningful projects, digital inclusion and accessibility
+================================
+Fullstack Javascript Developer
+------------------------------
+I am Clément, converted to web development after 35 years in search of a passion job.
+I had several careers in my life, pastry chef, baker, supervisor in a college then training as a computer technician to finally find the field that fully fulfilled me.
+During my training, I had a mentor who introduced me to Clean Code, TDD and Software Craftmanship in general. I am very grateful to her because I want to evolve in this direction and write a readable and scalable code.
+
+* 🌍  I'm based in Soissons, France
+* 🖥️  See my portfolio at [clementbellier.fr](http://www.clementbellier.fr)
+* 🧠  I'm learning TypeScript, Strapi & Docker
+* 🤝  I'm open to collaborating on meaningful projects, digital inclusion and accessibility
 
 ### Skills
 
